@@ -1,0 +1,10 @@
+melisa:
+
+what ik heb geleerd:
+-werken met git samen
+-git clonen en pullen
+
+wat ik nog wil leren:
+-cybersecurity
+-eigen NAS bouwen
+-programmeren
