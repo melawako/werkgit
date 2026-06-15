@@ -1,3 +1,4 @@
+
 melisa:
 
 what ik heb geleerd:
@@ -8,3 +9,18 @@ wat ik nog wil leren:
 -cybersecurity
 -eigen NAS bouwen
 -programmeren
+
+ayan:
+
+wat ik heb geleerd:
+
+-mergen
+-web kunnen hosten 
+-back-ups maken
+
+wat ik nog wil leren:
+
+- PHP
+- databases kunnen hosten
+
+
